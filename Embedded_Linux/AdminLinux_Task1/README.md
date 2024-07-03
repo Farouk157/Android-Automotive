@@ -28,7 +28,9 @@ Answer:
 
 	1- rm this command is mainly used for deleting files and by default, it can't delete the directory
  
-	   unless using the flag or option (-r) which means recursive (remove the directories and their content recusively).
+	   unless using the flag or option (-r) which means recursive 
+    
+           (remove the directories and their content recusively).
 	
 	2- rmdir this command is used for deleting the directories if they are empty,
  
