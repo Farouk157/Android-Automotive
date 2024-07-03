@@ -39,7 +39,7 @@ Answer:
 
 ## Q4) Create the following hierarchy under your home directory (done)
 	
-     (Q) a- remove dirl1 with rmdir in one step ? 
+    (Q) a- remove dirl1 with rmdir in one step ? 
 
 	-> the rmdir couldn't delete the directory because it contains a directory or content. 
 
