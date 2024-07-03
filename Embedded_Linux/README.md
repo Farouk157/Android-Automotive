@@ -1,2 +1,2 @@
 # Android-Automotive
-this repo for the android automotive track 
+This folder for the linux tasks  
