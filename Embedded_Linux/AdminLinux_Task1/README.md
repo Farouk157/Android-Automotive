@@ -46,12 +46,14 @@ Answer
 	-> the rmdir couldn't delete the directory because it contains a directory or content. 
 
         -> to overcome that we can use rm command with -r option or flag
-        
+
+	
     (Q) b- remove OldFiles using rmdir -p command ? 
     
 Answer 
 
 	-> failed to remove it's 'Documents/OldFiles' not a directory can't use rmdir with it 
+
 
     (Q) c- the output of the command pwd was /home/usr. write the absolute and relative path for the file mycv
   
