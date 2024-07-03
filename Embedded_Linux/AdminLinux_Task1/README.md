@@ -40,8 +40,6 @@ Answer:
 ## Q4) Create the following hierarchy under your home directory (done)
 	
      (Q) a- remove dirl1 with rmdir in one step ? 
-		
-Answer  
 
 	-> the rmdir couldn't delete the directory because it contains a directory or content. 
 
@@ -50,14 +48,9 @@ Answer
 	
     (Q) b- remove OldFiles using rmdir -p command ? 
     
-Answer 
-
 	-> failed to remove it's 'Documents/OldFiles' not a directory can't use rmdir with it 
 
-
     (Q) c- the output of the command pwd was /home/usr. write the absolute and relative path for the file mycv
-  
-Answer  
 
 	-> the absolute path is: /home/usr/docs/mycv
 
