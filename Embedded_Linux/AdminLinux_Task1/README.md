@@ -16,6 +16,7 @@ Answer:
 ## Q2) From the slides what is the man command used for ? 
 
 Answer: 
+
 	this man command is used for giving short reference manual for external commands only
  
 	and not working with internal or shell commands.
