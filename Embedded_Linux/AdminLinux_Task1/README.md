@@ -41,37 +41,46 @@ Answer:
 	
     ### (Q) a- remove dirl1 with rmdir in one step ? 
 		
-Answer  -> the rmdir couldn't delete the directory because it contains a directory or content. 
+Answer  
+
+	-> the rmdir couldn't delete the directory because it contains a directory or content. 
 
         -> to overcome that we can use rm command with -r option or flag
         
     ###(Q) b- remove OldFiles using rmdir -p command ? 
     
-Answer  -> failed to remove it's 'Documents/OldFiles' not a directory can't use rmdir with it 
+Answer 
 
+	-> failed to remove it's 'Documents/OldFiles' not a directory can't use rmdir with it 
 
     ###(Q) c- the output of the command pwd was /home/usr. write the absolute and relative path for the file mycv
   
-Answer  -> the absolute path is: /home/usr/docs/mycv
+Answer  
+
+	-> the absolute path is: /home/usr/docs/mycv
 
 	-> the relative path is: docs/mycv
 
 
 ## Q5) copy the /etc/passwd file to your directory making its name is mypasswd
 
-Answer  -> cp /etc/passwd ~/mypasswd
+Answer  
+
+	-> cp /etc/passwd ~/mypasswd
 
 
 
 ## Q6) Rename this new file to be oldpasswd
 
-Answer -> mv ~/mypasswd ~/oldpasswd
+Answer 
+
+	-> mv ~/mypasswd ~/oldpasswd
 
 
 
 ## Q7) You are in /usr/bin, list four ways to go to your home directory 
 	
-Answer -> 
+Answer 
 
 	  1- cd ~
    
@@ -85,15 +94,18 @@ Answer ->
 
 ## Q8) list linux commands in /usr/bin that start with w
 
-Answer -> using the command ls with wild cards 
+Answer 
+
+	-> using the command ls with wild cards 
 		
-	  ls /usr/bin/w*
+	ls /usr/bin/w*
 	 
 	 
 	 
 ## Q9) What command type are used for ? 
 
 Answer -> 
+
 	  this command (type) is used to inform us about the type of the command itself
    
 	  ( External, Internal(shell) or alias ) command.
@@ -103,7 +115,7 @@ Answer ->
 
 ## Q10) show 2 types of command filee in /usr/bin that start with lettr c 
 
-Answer -> 
+Answer 
 
 	   cat: A command used to concatenate and display files or standard input.
     
@@ -112,13 +124,15 @@ Answer ->
 
 ## Q11) using man command find the command to read file. (Note: man take option)
 
-Answer ->  man -k read 
+Answer 
+
+	->  man -k read 
 
 ## Q12) what is the usage of apropos command ?
 
-Answer ->
+Answer 
 
-	  this command is used if we don't remeber the name of a command we can 
+	 -> this command is used if we don't remeber the name of a command we can 
    
 	  give it a string that descripes the needed command and apropos helps us 
 	
