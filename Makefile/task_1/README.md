@@ -11,29 +11,17 @@ It includes a Makefile to automate the compilation process.
 project/
 
 ├── src/
-
 │   ├── add.c
-
 │   ├── div.c
-
 │   ├── main.c
-
 │   ├── multi.c
-
 │   └── sub.c
-
 ├── include/
-
 │   ├── add.h
-
 │   ├── div.h
-
 │   ├── multi.h
-
 │   └── sub.h
-
 ├── bin/
-
 └── build/
 
 1- src/: Contains the source '.c' files for different arithmetic operations and main.c.
