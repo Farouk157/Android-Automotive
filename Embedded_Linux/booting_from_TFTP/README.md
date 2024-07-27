@@ -62,7 +62,7 @@
 
 ## I installed the emulator qemu also at the last link with u-boot
 
-## I installed my need kernel which is linux, customized it and generated the zImage and dtb file
+## I installed my needed kernel which is linux, customized it and generated the zImage and dtb file
 
 (https://github.com/Farouk157/Android-Automotive/tree/main/Embedded_Linux/customize_kernel) 
 
@@ -136,7 +136,7 @@
 
 ### 17. im going to load the vexpress-v2p-ca9.dtb file int the fdt_addr using TFTP 
 
-		tfto ${fdt_addr_r} vexpress-v2p-ca9.dtb
+		tftp ${fdt_addr_r} vexpress-v2p-ca9.dtb
 
 ![15](https://github.com/user-attachments/assets/1f554d76-d572-46ac-8756-d49d29e55879)
 
