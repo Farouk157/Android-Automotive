@@ -1,4 +1,4 @@
-# booting from the virtual SD_card 
+# booting manually from the virtual SD_card 
 
 ## we have created our own virtual SD_card you can check it out from this link
 
@@ -10,7 +10,7 @@
 
 ## I installed the emulator qemu also at the last link with u-boot
 
-## I installed my need kernel which is linux, customized it and generated the zImage and dtb file
+## I installed my needed kernel which is linux, customized it and generated the zImage and dtb file
 
 (https://github.com/Farouk157/Android-Automotive/tree/main/Embedded_Linux/customize_kernel) 
 
