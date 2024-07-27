@@ -1,4 +1,4 @@
-# booting manually from the TFTP (Trivial File Trasfer Protocol)
+# booting manually using the TFTP (Trivial File Trasfer Protocol)
 
 - Trivial File Transfer Protocol (TFTP) is a network protocol for exchanging files between two machines.
 
